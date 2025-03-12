@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# TypeScript build outputs
+dist/
+build/
+out/
+
+# TypeScript temporary files
+tsconfig.tsbuildinfo
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs and temporary files
+*.log
+*.lock
+
+# Jest and testing
+coverage/
+.jest/
+
+# MacOS and system files
+.DS_Store
+Thumbs.db
